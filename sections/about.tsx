@@ -4,7 +4,7 @@ import Motion from "../components/Motion";
 import { ReactElement } from "react";
 import Row from "../components/Row";
 import SectionContainer from "../components/SectionContainer";
-import Tractor from "../public/tractor.png";
+import Tractor from "../public/why_tractor.png";
 import { useInView } from "react-intersection-observer";
 
 export default function About(): ReactElement {
