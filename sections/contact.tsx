@@ -51,7 +51,7 @@ export default function Contact(): ReactElement {
             </div>
             <h3>Get in Touch</h3>
             <div className="info highlight">
-              <a href="mailto:info@twindove.com.ng">info@twindove.com.ng</a>{" "}
+              <a href="mailto:info@twindove.org">info@twindove.org</a>{" "}
               <a href="mailto:twindove2018@gmail.com">twindove2018@gmail.com</a>{" "}
               <a href="tel:+2348149571999">+2348149571999</a>
             </div>
